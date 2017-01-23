@@ -1,6 +1,6 @@
 # git
 
-A git lecture project
+A Wyncode git lecture project
 
 ##header2
 
